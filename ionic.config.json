@@ -1,0 +1,7 @@
+{
+  "name": "l02-components",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
